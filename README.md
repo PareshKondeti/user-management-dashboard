@@ -1,3 +1,13 @@
+# This is a simple web application that allows users to view, add, edit, and delete user details. It interacts with the JSONPlaceholder API for demonstration purposes.
+
+# Features
+1)View a list of users with details such as ID, Name, Username, Email, Phone, and Company.
+2)Add a new user with a form.
+3)Edit an existing user's details.
+4)Delete a user from the list.
+5)Error handling for failed API requests.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
